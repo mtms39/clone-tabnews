@@ -4,7 +4,7 @@
   "description": "curso.dev classes for tabnews.com.br recreation",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+	  "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
